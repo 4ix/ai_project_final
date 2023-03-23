@@ -1,0 +1,16 @@
+{% extends "base.html"%}
+{% block content %}
+<div class="jumbotron">
+  <h1>축하합니다!</h1>
+  <h2>'{{value}}' 에 대한 영상이 생성되었습니다.</h2>
+  <p> <a href="{{url_for('Download_File')}}">파일 다운로드</a></p>
+  {% if korean %}
+  <ul>
+    {% for k in korean %}
+      <li>{{ k }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+
+{% endblock %}
