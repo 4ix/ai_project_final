@@ -14,7 +14,7 @@
 |Flask 연동||||진행|완료|
 
 ## 개발 기획서
-- [Generative Yotube 기획](https://equal-cardamom-6cb.notion.site/Generative-Youtube-36c7581929894d3a88e96c40c2d1a60b)
+- [Generative Youtube 기획](https://equal-cardamom-6cb.notion.site/Generative-Youtube-36c7581929894d3a88e96c40c2d1a60b)
 
 
 ## Flask 관련
