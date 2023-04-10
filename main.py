@@ -20,7 +20,7 @@ def result():
     value = request.args.get('subject')
     result = genYoutube.setName(value)
     if result:
-        return render_template('result.html', value=value, korean=genYoutube.korean)
+        return render_template('result.html', value=value, subtitles=genYoutube.subtitles)
     
 @app.route('/download')
 def Download_File():
