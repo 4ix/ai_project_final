@@ -17,4 +17,5 @@ flask run
 ```
 
 ## 포트폴리오
-[다운로드](/portfolio/Generative%20Youtube.pdf)
+- [다운로드](/portfolio/Generative%20Youtube.pdf)
+- [시연영상](https://youtu.be/euQoqmpvnMs)
