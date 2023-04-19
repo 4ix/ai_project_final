@@ -5,6 +5,9 @@
 ## WBS
 - ![wbs](./images/wbs.jpg)
 
+## 최종 결과물
+- ![final](./images/final.jpg)
+
 ## 개발 기획서
 - [Generative Youtube 기획](https://equal-cardamom-6cb.notion.site/Generative-Youtube-36c7581929894d3a88e96c40c2d1a60b)
 
@@ -18,4 +21,4 @@ flask run
 
 ## 포트폴리오
 - [다운로드](/portfolio/Generative%20Youtube.pdf)
-- [시연영상](https://youtu.be/euQoqmpvnMs)
+- [시연영상](https://www.youtube.com/watch?v=1WOYaIyz62c)
